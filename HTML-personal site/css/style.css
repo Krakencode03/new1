@@ -1,0 +1,135 @@
+body {
+  background-color: #16213E;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #9fafca;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0px;
+  font-weight: normal;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 8px;
+  height: 0px;
+  width: 5%
+}
+
+.contactus {margin-bottom: 20px;
+  font-size: 1.5rem;
+  color: white;
+}
+
+h1 {
+  font-size: 3.75rem;
+  color: blue;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 0px;
+}
+
+H3 {
+  COLOR: white;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0;
+}
+
+.logo {
+  border-radius: 100%;
+}
+
+.hname {
+  color: white;
+}
+
+.contact {
+  color: #66BFBF;
+}
+
+.top {
+  background-color: #0F3460;
+  padding: 20px;
+  margin: 10px;
+}
+
+.table1 {
+  margin: 0 auto 0 auto;
+}
+
+body {
+  margin: 0;
+  text-align:
+    center;
+}
+
+.table2 {
+  text-align: center;
+  margin: auto;
+  color: WHITE;
+}
+
+.table3 {
+  margin: 0 auto 0 auto;
+  color: WHITE;
+  line-height:2;
+}
+
+p {
+  color: white;
+}
+
+.EDUCATION {
+  width: 50%;
+  margin: auto;
+  line-height:1.5;
+}
+.workexp{width: 50%;
+margin: auto;
+line-height: 1.5;}
+.about {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+
+.img1 {
+  border-radius: 100%;
+  transition: transform .2s;
+}
+
+.img1:hover {
+
+  transform: scale(1.5);
+}
+
+.cu2 {
+  border-radius: 10%;
+}
+
+.ul1 {
+  color: #F9F9F9;
+}
+
+
+td {
+  color: #F9F9F9;
+}
+
+form {
+  color: white;
+}
+.ul2 {text-align: center;
+
+}
+.ul3{
+  margin-bottom: 0px;
+}
+
+.li1{margin-left:1px;
+margin-right: 30px;
+margin-bottom:0px;}
+.li2{margin-left: 1px;
+margin-right: 127px;}
